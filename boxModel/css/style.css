@@ -1,0 +1,175 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.caja1{
+    width: 80%;
+    height: 80%;
+    background-color: blueviolet;
+    border: 2px solid violet;
+    padding: 30%;
+    margin: 5%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+    animation:  hola2 5s infinite;
+}
+.caja2{
+    width: 80%;
+    height: 80%;
+    background-color: yellowgreen;
+    border: 2px solid violet;
+    padding: 30%;
+    margin: 5%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+    animation: hola 5s infinite;   
+}
+h1{
+    font-family: 'Cookie', cursive;
+    font-size: 3rem infinitive;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+}
+h3{
+    font-family: 'Tangerine', cursive;
+    font-size: 5rem;
+}    
+.box{
+    width: 80%;
+    height: 80%;
+    background-color: rebeccapurple;
+}
+.caja3{
+    height: 200px;
+    border: 2px solid blueviolet;
+    background-color: red;
+} 
+.caja4{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: rosybrown;
+}
+.caja5{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: salmon;
+}
+.caja6{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: seagreen;
+}
+.caja7{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: sienna;
+}
+.caja8{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: springgreen;
+} 
+.caja9{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: teal;
+}
+.caja10{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: beige; 
+}
+.caja11{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: black;
+}
+.caja12{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: brown;
+}
+.caja13{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: rebeccapurple;
+}
+.caja14{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: palegoldenrod;
+}
+.caja15{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: gold;
+}
+.caja16{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: palegoldenrod;
+}
+.caja17{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: chartreuse;
+}
+.caja18{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: palegreen;
+}
+.caja19{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: oldlace;
+}
+.caja20{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: indianred;
+}
+.caja21{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: indigo;
+}
+.caja22{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: yellowgreen;
+}
+.caja23{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: teal;
+}
+.caja24{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: goldenrod;
+}
+.caja25{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: rebeccapurple;
+}
+.caja26{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: whitesmoke;
+}
+.caja27{
+    border: 2px solid blueviolet;
+    height: 200px;
+    background-color: aquamarine;
+}
